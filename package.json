@@ -12,8 +12,8 @@
     "agent"
 
   "repository": {
-    "type": "git",
-    "url": "git://github.com/visionmedia/superagent.git"
+    "type": "github",
+    "url": "https://github.com/GBett/superagent-master.git"
   },
   "dependencies": {
     "qs": "2.3.3",
